@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there👋. I'm a first year Mechatronics Engineering student at the University of Waterloo with an interest in computer vision, embedded software engineering, and machine learning. Currently I am a part of the Waterloo Aerial Robotics Group (WARG) as an embedded flight software team member.
+Hey there👋. I'm a second year Mechatronics Engineering student at the University of Waterloo with an interest in computer vision, embedded software engineering, and machine learning. Currently I am a part of the Waterloo Aerial Robotics Group (WARG) as an embedded flight software team member.
 
 
 ## 🌐 Connect with me:
